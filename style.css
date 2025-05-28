@@ -201,7 +201,6 @@ nav a:hover {
     color: #aaa;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
     .cards {
         flex-direction: column;
