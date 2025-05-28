@@ -40,7 +40,7 @@ nav a:hover {
 }
 
 .hero {
-    background: url("https://chatgpt.com/s/m_6837612509148191a0966943068791bf") center/cover no-repeat;
+    background: url("images/back.png") center/cover no-repeat;
     padding-top: 10em;
     padding-bottom: 20em;
     font-family: 'Bebas Neue', sans-serif;
